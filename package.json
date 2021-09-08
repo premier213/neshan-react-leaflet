@@ -2,7 +2,7 @@
   "name": "@meysam213/react-neshan-map-leaflet",
   "author": "meysam213",
   "description": "⚛️ React component for 🍃 Neshan Leaflet map.",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "keywords": [
     "leaflet",
     "react-leaflet",
